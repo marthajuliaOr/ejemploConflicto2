@@ -1,2 +1,2 @@
 //ejemplo de conflicto
-//cambio ramaA
+//cambio ramaA y ramaB
